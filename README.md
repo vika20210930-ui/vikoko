@@ -8,6 +8,9 @@ My favorite countries:
 2. Asia❤️
      * Japan
      * Singapore
+
+       [ITALYY](https://travel.yandex.ru/journal/gory-v-italii-top10-samyh-izvestnyh-vershin/)
+
        
 | *Europe*      | *Asia*        |* America*  |
 | :-----------: |:-------------:| :---------:|
