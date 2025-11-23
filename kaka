@@ -1,0 +1,25 @@
+#include <iostream>
+
+int main()
+{
+    int count;
+    std::cin >> count;
+    std::cout << "Номер Пети: " << count - 1 << "\n";
+    std::cout << "Номер Васи: " << count + 1 << "\n";
+    return 0;
+}
+#include <iostream>
+using namespace std;
+int main() {
+    setlocale(LC_ALL, "RU");
+
+    int n;
+    cin >> n; //234
+    
+    int flag = !!n;
+
+    cout << char(78 + flag * 11); // N78 Y89
+    cout << char(79 - flag * 10);
+    cout << char(flag * 83);
+
+}
